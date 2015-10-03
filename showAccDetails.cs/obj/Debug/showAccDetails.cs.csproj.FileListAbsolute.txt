@@ -1,0 +1,8 @@
+D:\My_project_3.1\BM_project\showAccDetails.cs\bin\Debug\showAccDetails.cs.exe
+D:\My_project_3.1\BM_project\showAccDetails.cs\bin\Debug\showAccDetails.cs.pdb
+D:\My_project_3.1\BM_project\showAccDetails.cs\obj\Debug\ResolveAssemblyReference.cache
+D:\My_project_3.1\BM_project\showAccDetails.cs\obj\Debug\showAccDetails.cs.Properties.Resources.resources
+D:\My_project_3.1\BM_project\showAccDetails.cs\obj\Debug\showAccDetails.cs.csproj.GenerateResource.Cache
+D:\My_project_3.1\BM_project\showAccDetails.cs\obj\Debug\showAccDetails.cs.exe
+D:\My_project_3.1\BM_project\showAccDetails.cs\obj\Debug\showAccDetails.cs.pdb
+D:\My_project_3.1\BM_project\showAccDetails.cs\obj\Debug\showAccDetails.cs.ShowAcc.resources

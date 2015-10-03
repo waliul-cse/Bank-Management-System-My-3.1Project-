@@ -1,0 +1,25 @@
+C:\Users\waliul\Documents\Visual Studio 2008\Projects\BM_project\BM_project\bin\Debug\BM_project.exe
+C:\Users\waliul\Documents\Visual Studio 2008\Projects\BM_project\BM_project\bin\Debug\BM_project.pdb
+C:\Users\waliul\Documents\Visual Studio 2008\Projects\BM_project\BM_project\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\waliul\Documents\Visual Studio 2008\Projects\BM_project\BM_project\obj\Debug\BM_project.Form1.resources
+C:\Users\waliul\Documents\Visual Studio 2008\Projects\BM_project\BM_project\obj\Debug\BM_project.Properties.Resources.resources
+C:\Users\waliul\Documents\Visual Studio 2008\Projects\BM_project\BM_project\obj\Debug\BM_project.csproj.GenerateResource.Cache
+C:\Users\waliul\Documents\Visual Studio 2008\Projects\BM_project\BM_project\obj\Debug\BM_project.exe
+C:\Users\waliul\Documents\Visual Studio 2008\Projects\BM_project\BM_project\obj\Debug\BM_project.pdb
+C:\Users\waliul\Documents\Visual Studio 2008\Projects\BM_project\BM_project\obj\Debug\BM_project.Form2.resources
+C:\Users\waliul\Documents\Visual Studio 2008\Projects\BM_project\BM_project\obj\Debug\BM_project.Form3.resources
+D:\My_project\BM_project\BM_project\obj\Debug\BM_project.exe
+D:\My_project\BM_project\BM_project\obj\Debug\BM_project.pdb
+D:\My_project_3.1\BM_project\BM_project\bin\Debug\BM_project.exe
+D:\My_project_3.1\BM_project\BM_project\bin\Debug\BM_project.pdb
+D:\My_project_3.1\BM_project\BM_project\obj\Debug\ResolveAssemblyReference.cache
+D:\My_project_3.1\BM_project\BM_project\obj\Debug\BM_project.DisplayAllaccount.resources
+D:\My_project_3.1\BM_project\BM_project\obj\Debug\BM_project.Form1.resources
+D:\My_project_3.1\BM_project\BM_project\obj\Debug\BM_project.Form2.resources
+D:\My_project_3.1\BM_project\BM_project\obj\Debug\BM_project.Form3.resources
+D:\My_project_3.1\BM_project\BM_project\obj\Debug\BM_project.Properties.Resources.resources
+D:\My_project_3.1\BM_project\BM_project\obj\Debug\BM_project.csproj.GenerateResource.Cache
+D:\My_project_3.1\BM_project\BM_project\obj\Debug\BM_project.exe
+D:\My_project_3.1\BM_project\BM_project\obj\Debug\BM_project.pdb
+D:\Video Tutorial\my 3.1 project\BM_project\BM_project\obj\Debug\BM_project.exe
+D:\Video Tutorial\my 3.1 project\BM_project\BM_project\obj\Debug\BM_project.pdb
